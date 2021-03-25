@@ -1,3 +1,4 @@
 # PythonLearn
-Cohen's getting started
+Cohen's getting started.
+gogo!
 2021
