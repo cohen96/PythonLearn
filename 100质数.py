@@ -1,3 +1,4 @@
+# 100内的质数
 i = 2
 while i <= 100 :
     flag = True
