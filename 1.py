@@ -8,7 +8,5 @@ while i <= 100 :
         j += 1
     if flag == True :
         print(i)
-
-
     i += 1
 
